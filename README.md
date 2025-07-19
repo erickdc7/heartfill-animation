@@ -23,6 +23,8 @@ Una animación visual en 2D hecha con HTML, CSS y JavaScript, inspirada en una c
 
 ## 🚀 Cómo ejecutar localmente
 
-1. Clona el repositorio:
-```bash
-git clone https://github.com/erickdc7/heartfill-animation.git
+1. Clona el repositorio: `git clone https://github.com/erickdc7/heartfill-animation.git`
+2. Entra en el proyecto: `cd heartfill-animation`
+3. Instala las dependencias: `npm install`
+4. Inicia el servidor de desarrollo: `npm run dev`
+
